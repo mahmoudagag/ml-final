@@ -1,0 +1,29 @@
+body{
+    margin-top: 10%;
+}
+#container{
+    margin: 0px auto;
+    width:600px;
+    text-align:center;
+    align-content:center;
+}
+#title{
+    margin:0px auto;
+    width:fit-content;
+    
+
+}
+#titleText{
+    font-size:120px;
+    margin-bottom: 20px;
+}
+#descripiton{
+    font-size:30px;
+    margin-bottom:20px;
+}
+
+#nextButton{
+    font-size:30px;
+    width: fit-content;
+
+}
